@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="editText_text">Your name</string>
+    <string name="button_text">Say Hello</string>
+    <string name="textView_text">Greetings</string>
+    <string name="close">Close</string>
+    <string name="share">SHARE</string>
+    <string name="search">SEARCH</string>
+    <string name="startA">Start A</string>
+    <string name="startB">Start B</string>
+    <string name="startC">Start C</string>
+</resources>
